@@ -1,0 +1,10 @@
+Caption
+Description
+SettingID
+BootDirectory
+ConfigurationPath
+LastDrive
+Name
+ScratchDirectory
+TempDirectory
+ 

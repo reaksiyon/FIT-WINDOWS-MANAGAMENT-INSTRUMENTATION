@@ -1,0 +1,17 @@
+AccountType
+Caption
+Description
+Disabled
+Domain
+FullName
+InstallDate
+LocalAccount
+Lockout
+Name
+PasswordChangeable
+PasswordExpires
+PasswordRequired
+SID
+SIDType
+Status
+ 

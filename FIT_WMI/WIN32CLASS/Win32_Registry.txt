@@ -1,0 +1,9 @@
+Caption
+Description
+InstallDate
+Status
+CurrentSize
+MaximumSize
+Name
+ProposedSize
+ 

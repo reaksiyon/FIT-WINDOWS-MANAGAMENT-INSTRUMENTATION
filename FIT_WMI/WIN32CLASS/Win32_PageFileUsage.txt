@@ -1,0 +1,10 @@
+Caption
+Description
+InstallDate
+Status
+AllocatedBaseSize
+CurrentUsage
+Name
+PeakUsage
+TempPageFile
+ 

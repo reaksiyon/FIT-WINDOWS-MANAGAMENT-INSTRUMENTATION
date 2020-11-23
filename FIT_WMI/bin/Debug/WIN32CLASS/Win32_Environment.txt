@@ -1,0 +1,9 @@
+Caption
+Description
+InstallDate
+Status
+Name
+SystemVariable
+UserName
+VariableValue
+ 

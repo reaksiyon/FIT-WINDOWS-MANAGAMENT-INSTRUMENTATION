@@ -1,0 +1,13 @@
+Caption
+Description
+SettingID
+AppID
+AuthenticationLevel
+CustomSurrogate
+EnableAtStorageActivation
+LocalService
+RemoteServerName
+RunAsUser
+ServiceParameters
+UseSurrogate
+ 

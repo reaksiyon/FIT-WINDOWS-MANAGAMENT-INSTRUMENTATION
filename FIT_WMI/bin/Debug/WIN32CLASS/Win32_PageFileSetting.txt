@@ -1,0 +1,7 @@
+Caption
+Description
+SettingID
+InitialSize
+MaximumSize
+Name
+ 

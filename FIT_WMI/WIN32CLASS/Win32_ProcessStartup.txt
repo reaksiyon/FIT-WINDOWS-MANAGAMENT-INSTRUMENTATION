@@ -1,0 +1,15 @@
+CreateFlags
+EnvironmentVariables[]
+ErrorMode = 1
+FillAttribute
+PriorityClass
+ShowWindow
+Title
+WinstationDesktop
+X
+XCountChars
+XSize
+Y
+YCountChars
+YSize
+ 

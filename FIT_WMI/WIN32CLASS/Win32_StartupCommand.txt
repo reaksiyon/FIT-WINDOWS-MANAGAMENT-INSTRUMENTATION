@@ -1,0 +1,9 @@
+Caption
+Description
+SettingID
+Command
+Location
+Name
+User
+UserSID
+ 

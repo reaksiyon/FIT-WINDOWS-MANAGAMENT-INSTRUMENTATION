@@ -1,0 +1,9 @@
+Caption
+Description
+IdentifyingNumber
+Name
+SKUNumber
+Vendor
+Version
+UUID
+ 

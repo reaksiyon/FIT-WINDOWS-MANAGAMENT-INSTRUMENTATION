@@ -1,0 +1,25 @@
+Caption
+Description
+SettingID
+sint32 Bias
+sint32 DaylightBias
+DaylightDay
+DaylightDayOfWeek
+DaylightHour
+DaylightMillisecond
+DaylightMinute
+DaylightMonth
+DaylightName
+DaylightSecond
+DaylightYear
+StandardBias
+StandardDay
+StandardDayOfWeek
+StandardHour
+StandardMillisecond
+StandardMinute
+StandardMonth
+StandardName
+StandardSecond
+StandardYear
+ 

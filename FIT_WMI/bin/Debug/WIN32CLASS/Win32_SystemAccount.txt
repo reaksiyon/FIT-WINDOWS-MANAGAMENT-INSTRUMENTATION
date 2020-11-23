@@ -1,0 +1,10 @@
+Caption
+Description
+InstallDate
+Status
+LocalAccount
+SID
+SIDType
+Domain
+Name
+ 
