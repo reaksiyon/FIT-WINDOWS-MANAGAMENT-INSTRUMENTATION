@@ -1,0 +1,11 @@
+Caption
+Description
+InstallDate
+Status
+AccessMask
+AllowMaximum
+MaximumAllowed
+Name
+Path
+Type
+ 

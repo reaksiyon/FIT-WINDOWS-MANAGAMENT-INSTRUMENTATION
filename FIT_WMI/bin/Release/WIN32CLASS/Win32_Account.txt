@@ -1,0 +1,8 @@
+Caption
+Description
+Domain
+LocalAccount
+SID
+SIDType
+Status
+ 

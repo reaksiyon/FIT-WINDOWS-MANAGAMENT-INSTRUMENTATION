@@ -1,0 +1,5 @@
+SECURITY_DESCRIPTOR[]
+TIME_CREATED
+EventType
+DriveName
+ 

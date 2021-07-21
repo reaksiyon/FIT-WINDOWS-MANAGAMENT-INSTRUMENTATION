@@ -1,0 +1,16 @@
+stringCaption
+stringDescription
+stringSettingID
+boolean AutoReboot
+stringDebugFilePath
+uint32DebugInfoType
+stringExpandedDebugFilePath
+stringExpandedMiniDumpDirectory
+boolean KernelDumpOnly
+stringMiniDumpDirectory
+stringName
+boolean OverwriteExistingDebugFile
+boolean SendAdminAlert
+boolean WriteDebugInfo
+boolean WriteToSystemLog
+ 
