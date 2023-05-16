@@ -1,7 +1,3 @@
-# Windows Management Instrumentation
-
-This project is made for my internship assignment.
-
 # Info
 
 It is a technology that enables almost every object to be controlled in Windows operating systems and can perform operations and management functions in the operating system. It contains many classes. In each of these classes, there are functions prepared for various purposes.
